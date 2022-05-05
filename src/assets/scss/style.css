@@ -1,0 +1,25 @@
+.btn {
+  padding: 10px 15px;
+  border: 1px solid teal;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: plum;
+  color: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  color: whitesmoke;
+  background: whitesmoke;
+}
+/*# sourceMappingURL=style.css.map */
